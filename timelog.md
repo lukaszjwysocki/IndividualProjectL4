@@ -12,4 +12,5 @@
 * *0.5 hours* Met with project supervisor at 12:00
 * *0.5 hours* Read guidance session slides before the online session
 * *0.5 hours* Did initial setup of Github repo
+* *2.0 hours* Attended online guidance session
 
